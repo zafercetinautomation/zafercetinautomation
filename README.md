@@ -25,7 +25,7 @@ IEC 61131-3 Structured Text, EtherCAT temelleri ve Python simülasyonları.
 ## Son projeler
 
 <!-- DAILY_PROJECTS:START -->
-Henüz günlük proje yayımlanmadı. İlk proje yolda.
+- [TwinCAT Trafik Lambası](https://github.com/zafercetinautomation/otomasyon-lab-20260720-twincat-traffic-light) — Structured Text durum makinesi, TON zamanlayıcıları ve donanımsız Python simülasyonu içeren Türkçe eğitim projesi.
 <!-- DAILY_PROJECTS:END -->
 
 ## Kullandığım araçlar
